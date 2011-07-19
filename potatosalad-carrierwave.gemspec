@@ -5,7 +5,7 @@ $:.unshift lib unless $:.include?(lib)
 require 'carrierwave/version'
 
 Gem::Specification.new do |s|
-  s.name = "carrierwave"
+  s.name = "potatosalad-carrierwave"
   s.version = CarrierWave::VERSION
 
   s.authors = ["Jonas Nicklas"]
